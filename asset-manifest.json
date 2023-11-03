@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d725b95f.css",
+    "main.js": "/static/js/main.43b1006f.js",
+    "static/media/manRun.png": "/static/media/manRun.99bf56c0ae57c95e0c92.png",
+    "static/media/coin.png": "/static/media/coin.aec90b1b26dabb339b4a.png",
+    "static/media/man.jpeg": "/static/media/man.44b9e8d8290c7ff8c94a.jpeg",
+    "static/media/award.jpeg": "/static/media/award.c0f81ff954ec43f22ebe.jpeg",
+    "static/media/services.svg": "/static/media/services.066ffda4c017d99761c68585f3c7dedb.svg",
+    "static/media/home.svg": "/static/media/home.add948ff466e77e48b8a88f6d6950394.svg",
+    "static/media/heart.svg": "/static/media/heart.3210b0857afd88a6c001051ceb8c4f90.svg",
+    "index.html": "/index.html",
+    "static/media/search-md.svg": "/static/media/search-md.f99c94b1fa9b34c669dfe838f4a00f94.svg",
+    "static/media/chevron-right.svg": "/static/media/chevron-right.156d700e6d248bd297c9b2a3ce01c7df.svg",
+    "main.d725b95f.css.map": "/static/css/main.d725b95f.css.map",
+    "main.43b1006f.js.map": "/static/js/main.43b1006f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d725b95f.css",
+    "static/js/main.43b1006f.js"
+  ]
+}
