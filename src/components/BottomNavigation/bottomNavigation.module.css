@@ -1,0 +1,29 @@
+.activeStory {
+  color: #A1E224;
+  fill: #A1E224;
+}
+
+.iconWrapper {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.2px;
+}
+
+.defaultColor {
+  color: var(--light-tab-bar-inactive-icon, #99A2AD);
+}
+
+.activeColor {
+  color: #A1E224;
+}

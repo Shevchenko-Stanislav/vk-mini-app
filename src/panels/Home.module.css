@@ -1,0 +1,33 @@
+.helloWrapper {
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.helloInner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.helloText {
+  display: flex;
+  flex-direction: column;
+}
+
+.smalText {
+  color: var(--gray-500, #667085);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.nameText {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; 
+}
